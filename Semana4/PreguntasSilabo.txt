@@ -1,0 +1,228 @@
+*********************************************
+UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+Nombre:MezaJose          NRC:16419
+Tema:Deber(Preguntas del silabo)
+*********************************************
+
+1¿Qué uso se le da a un SVC?
+A)Crear repositorios 
+B)Realizar operaciones de guardado en la computadora
+C)Gestionar los cambios de codigo fuente
+D)Crear registros
+ANSWER: A
+
+2¿Qué funcionalidades proporciona GitHub?
+A)Colaboración de desarrollo
+B)pull requests, repositorios
+C)Código limpio
+D)Herramientas de navegación
+ANSWER: B
+
+3¿En que se centra el paradigma de programación declarativo?
+A)Describir como realizar una tarea
+B)Secuencias de instrucciones
+C)Modularidad y reutilización de código fuente
+D)Lograr un objetivo si especificar como
+ANSWER: D
+
+4¿Cual de los enunciados no pertenece a los paradigmas de programacion?
+A)Modularidad
+B)Haskell
+C)Objetos
+D)Imperativo
+ANSWER: A
+
+5¿Qué es un IDE?
+A)Herrienta de gestión de codigo fuente
+B)Conjunto de herramientas que facilitan la creacion de codigo
+C)Paquete de librerias
+D)PHP
+ANSWER: B
+
+6¿Qué funcion tiene la consola de ejecución?
+A)Ejecutar el Código fuente
+B)Mostrar mensajes en pantalla
+C)Interactua con el entorno de ejecución
+D)Desarrollar software
+ANSWER: C
+
+7¿Que es una instancia?
+A)Ejecutar el Código fuente
+B)Muestra mensajes en pantalla
+C)Entidad con valores definidos fuera de una clase
+D)Crear in objeto a partir de una clase
+ANSWER: D
+
+8¿Qué son metodos?
+A)Funciones de una clase 
+B)Caracteristicas de una clase
+C)Atributos de una clase
+D)Modificadores de acceso
+ANSWER: A
+
+9¿Qué es un atributo?
+A)Función de una clase
+B)Clases
+C)Caracteristicas de una clase
+D)Diagramas de clase
+ANSWER: B
+
+10¿Qué es un objeto?
+A)Materiales
+B)Fuentes del código fuente
+C)Carastisticas de una clase
+D)Encapsulamiento de operaciones
+ANSWER: D
+
+11¿Qué es UML?
+A)Código fuente
+B)Unidad logica monitorada
+C)Lenguaje de modelado unificado
+D)Unidad de manejo logico
+ANSWER: C
+
+12¿Para qué sirve un Diagrama de clases?
+A)Para visualizar las relaciones entre clases del sistema
+B)Para visualizar las clases 
+C)Para diseñar las clases
+D)Para crear los metodos y atributos de la clase
+ANSWER: A
+
+13¿Qué son los modificadores de acceso?
+A)Modificadores de codigo
+B)Palabras reservadas para definir la visibilidad de un atributo
+C)Atributos
+D)Unidad de manejo logico
+ANSWER: B
+
+14¿Qué es código limpio?
+A)Escritura coherente de código
+B)Patrones de codificación
+C)Documentacion de código
+D)Convenciones de codificación
+ANSWER: A
+
+15¿Qué gestiona el código limpio?
+A)Modificadores de acceso
+B)Documentación del código
+C)Consitencia y mantenibilidad
+D)Inconsistencias del código
+ANSWER: C
+
+16¿Qué tipos de datos existen?
+A)INT,LOG,BOOL
+B)Primitivos y referenciados
+C)Consistentes y abstractos
+D)Float,String
+ANSWER: B
+
+
+17¿Cuál de los siguientes no pertenece a los tipos de atributos?
+A)Public,Private
+B)Primitivos y referenciados
+C)Protegidos
+D)Package
+ANSWER: B
+
+18¿Cuál es la funcione de un costructor?
+A)Diseñar un programa
+B)Crear una casa
+C)Inicializar los metodos de la clase
+D)Inicializar los atributos de la clase
+ANSWER: D
+
+19¿Qué es el polimorfismo?
+A)Comportamiento asociados a atributos de la clase
+B)Agrupacion de objetos
+C)Comportamientos asociados a objetos distintos
+D)Descripciones de metodos de la clase
+ANSWER: C
+
+20¿Qué es encapsulamiento?
+A)Donde se puede agrupar comporamientos del sistema
+B)Donde se puede agrupar varios elementos
+C)Donde se puede agrupar atributos de un objeto
+D)Donde podemos moldear las clases
+ANSWER: B
+
+21¿Qué es abstracción?
+A)Capacidad de representar entidades del mundo real
+B)Representación de objetos
+C)Metodos de aprendizaje
+D)Analisis de caracteristicas de un objeto
+ANSWER: A
+
+22¿Con qué se relaciona la Composición?
+A)con los atributos de la clase
+B)Con los valores de un objeto
+C)Con los metodos de la clase
+D)Con el diseño del programa
+ANSWER: B
+
+23¿Que contiene la Agregacion?
+A)Los metodos de una clase
+B)vectores directores
+C)Los atributos 
+D)clases primitivas
+ANSWER: C
+
+24¿Qué es la dependencia?
+A)Relación de dependencia entre una clase con otra
+B)Relacion entre los metodos de una clase
+C)Cofactores
+D)Relacion entre atributos
+ANSWER: A
+
+25¿Qué es la cardinalidad?
+A)Relación entre atributos
+B)Caracteristicas del objeto
+C)Caracteristicas de los atributos
+D)Relación entre objetos asociados con instancias
+ANSWER: D 
+
+26¿Qué es un arreglo de objetos?
+A)Coleccion de metodos
+B)Colección de nombres
+C)Colección de atributos
+D)Colección de datos del mismo tipo
+ANSWER: D
+
+27¿Cuá es una caracteristica del constructor?
+A)No tiene valor de retorno
+B)El nombre del atributo
+C)El nombre del tipo de dato
+D)El nombre del metodo
+ANSWER: A
+
+28¿Qué es un set?
+A)Establece o modifica el valor de un metodo
+B)Establece o modifica el valor de una instancia
+C)Establece o modifica el valor de un atributo
+D)Establece o modifica el valor de una clase
+ANSWER: C
+
+29¿Qué es un get?
+A)Obtiene el valor de una clase privada
+B)Obtiene el valor de un atributo publico
+C)Obtiene el valor de un metodo privado
+D)Obtiene el valor de un atributo privado
+ANSWER: D
+
+30¿Qué son las colecciones?
+A)Grupos de clases
+B)Grupos de objetos
+C)Grupos de metodos
+D)Grupos de instancias 
+ANSWER: B
+
+
+
+
+
+
+
+
+
+
+
+
